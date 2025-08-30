@@ -23,3 +23,6 @@ git clone [link]
  git stash
 11. Забрать из стэша
  git stash apply
+12. Обхединение веток
+ git merge
+ git rebase
