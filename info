@@ -14,3 +14,6 @@ git clone [link]
   git add filename
 7. История комитов 
  git log
+8. переключение на ветку
+ git checkout branch_name
+ git checkout -b branch_name (создать ветку, если ее нет)
